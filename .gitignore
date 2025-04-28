@@ -1,0 +1,8 @@
+.env
+*.swp
+__pycache__/
+*.pyc
+venv/
+bot.log
+last_tweet.txt
+nohup.out
